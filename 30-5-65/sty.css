@@ -60,5 +60,7 @@
     height: 100px;
     background: violet;
 }
-
+li a{
+    color: aliceblue;
+}
 
